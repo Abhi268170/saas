@@ -1,4 +1,4 @@
-class AddPlanToTenants < ActiveRecord::Migration[5.2]
+class AddPlanToTenants < ActiveRecord::Migration
   def change
     add_column :tenants, :plan, :string
   end

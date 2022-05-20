@@ -25,6 +25,7 @@ gem 'milia'
 gem 'jbuilder', '~> 2.5'
 gem  'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
+gem 'bootstrap-datepicker-rails'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 4.0'
 # Use ActiveModel has_secure_password
